@@ -2,7 +2,7 @@
 
 This dataset is about employee attrition prediction.
 
-The data contains 19,104 instances (employees) with other features such as Age, gender, city, Date of joining, Last working date, Designation etc
+The data contains 19,104 instances (employees) with other features such as Age, gender, city, Date of joining, Last working date, Designation etc.
 
 You are working as a data scientist with HR Department of a large insurance company focused on sales team attrition. Insurance sales teams help insurance companies generate new business by contacting potential customers and selling one or more types of insurance. The department generally sees high attrition and thus staffing becomes a crucial aspect.
 
